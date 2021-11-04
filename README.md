@@ -1,11 +1,9 @@
 <h1> Hola! :smiley:</h1>
-<img src='https://gifmaniacos.es/wp-content/uploads/2017/03/gif-dinosaurio-terrible-gifmaniacos.es-6.gif' >
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailin-rutchle/)](https://www.linkedin.com/in/ailin-rutchle-911569212/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pereyrapame)](mailto:ailintango@gmail.com)
-
+<img src='https://gifmaniacos.es/wp-content/uploads/2017/03/gif-dinosaurio-terrible-gifmaniacos.es-6.gif' >
 <br/>
 <br/>
 
