@@ -32,4 +32,4 @@ Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Ailin09}/count.svg" alt="Ailin09 :: Visitor's Count" /></p>
 
-⭐️ From 👩‍[Ailin09](https://github.com/Ailin09) 👨‍💻💻
+⭐️ De 👩‍[Ailin09](https://github.com/Ailin09) 👨‍💻💻
