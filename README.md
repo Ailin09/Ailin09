@@ -1,4 +1,4 @@
-<h1> Hola! ¿Cómo estás?</h1>
+<h1> Hola! ¿Cómo estás? aquí mismo puedes acceder a mi correo y a mi LinkedIn</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ailin-rutchle-911569212/)](https://www.linkedin.com/in/ailin-rutchle-911569212/)
 
