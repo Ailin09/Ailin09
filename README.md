@@ -1,5 +1,5 @@
 <h1> Hola! :smiley:</h1>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://gifmaniacos.es/wp-content/uploads/2017/03/gif-dinosaurio-terrible-gifmaniacos.es-6.gif' width='200"'>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailin-rutchle/)](https://www.linkedin.com/in/ailin-rutchle-911569212/)
