@@ -14,7 +14,8 @@ Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios 
  <h3 align="left">
  :starTecnologías:
 </h3>
-<p align="center">## Skills  :fire:
+<p align="center">
+ :fire:
 - Javascript.
 - Html.
 - Css.
