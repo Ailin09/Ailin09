@@ -12,7 +12,7 @@
 Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios de programación en mis tiempos libres mientras trabajaba como Pastelera Profesional. La Pastelería no fue mi primer vocación, si no que a terminar mis estudios secundarios ingresé como personal militar de Fuerza Aérea, siendo Mecánica Aeronáutica.  Con el paso del tiempo entendí que no hay tiempo perdido si lo que se hace se hace con pasión. Hoy puedo decir que he podido combinar  todas esas habilidades adquiridas y aprendidas y estoy preparada para conseguir mi primer trabajo IT.
 
  <h3 align="left">
- :starTecnologías:
+ Tecnologías:
 </h3>
 <p align="center">
  :fire:
@@ -26,4 +26,5 @@ Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios 
 - Redux
 - Sequalize
 - Git
+ :fire:
 <a><img src="https://user-images.githubusercontent.com/86435558/138572682-bb4b6aad-bbab-4667-bd54-ecc4cfbb5b3a.png"></a>
