@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/ailin-rutchle-911569212/">Ailin Rutchle</a> :smiley:
- <a href="https://linkedin.com/in/ailin-rutchle-911569212/">
-  <img align="left" alt="Ailin Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+ [![Linkedin Badge](https://img.shields.io/badge/-AilinRutchle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ailin-rutchle-911569212/)]
+
+[![Gmail Badge](https://img.shields.io/badge/-AilinRutchle-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pereyrapame)](mailto:ailintango@gmail.com)
 
 <br/>
 <br/>
