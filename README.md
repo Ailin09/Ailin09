@@ -1,4 +1,5 @@
-Hola!
+<h1> Hola! :smiley:</h1>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/ailin-rutchle-911569212/)](https://www.linkedin.com/in/ailin-rutchle-911569212/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pereyrapame)](mailto:ailintango@gmail.com)
 
@@ -26,4 +27,4 @@ Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 </div>
-![Ailin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailin09&hide=contribs,prs)
+
