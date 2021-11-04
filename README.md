@@ -1,9 +1,4 @@
 <h1> Hola! ¿Cómo estás?</h1>
- Aquí mismo puedes acceder a mi correo y a mi LinkedIn
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ailin-rutchle-911569212/)](https://www.linkedin.com/in/ailin-rutchle-911569212/)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pereyrapame)](mailto:pereyrapame@gmail.com)
 
 <br/>
 
@@ -28,6 +23,17 @@ Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios 
 - Git
  :fire:
 <a><img src="https://user-images.githubusercontent.com/86435558/138572682-bb4b6aad-bbab-4667-bd54-ecc4cfbb5b3a.png"></a>
+ ##  📫Como puedes contactarme: ...
+
+   <p align="center">
+      <a href="https://vimeo.com/manage/videos/640781424">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=" " height="30" width="30">
+         &nbsp
+      </a> 
+      <a align='right' href="mailto:fliafernandezmorales@gmail.com">
+      &nbsp
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
  
  <h4 align="center">Visitor's count :eyes:</h4>
 
