@@ -1,8 +1,6 @@
 <h1> Hola! ¿Cómo estás?</h1>
 
-<br/>
-<h4> 📫Como puedes contactarme: ...</h4>
-<br/>
+
    <p align="center">
       <a href="https://vimeo.com/manage/videos/640781424">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=" " height="30" width="30">
