@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/ailin-rutchle-911569212/">Ailin Rutchle</a> :smiley:
- [![Linkedin Badge](https://img.shields.io/badge/-AilinRutchle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ailin-rutchle-911569212/)]
+ [![Linkedin Badge](https://img.shields.io/badge/-Ailin Rutchle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ailin-rutchle-911569212/)
 
-[![Gmail Badge](https://img.shields.io/badge/-AilinRutchle-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pereyrapame)](mailto:ailintango@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Ailin Rutchle-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pereyrapame)](mailto:ailintango@gmail.com)
 
 <br/>
 <br/>
