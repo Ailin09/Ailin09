@@ -24,8 +24,8 @@ Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios 
  :fire:
 <a><img src="https://user-images.githubusercontent.com/86435558/138572682-bb4b6aad-bbab-4667-bd54-ecc4cfbb5b3a.png"></a>
  
-<h1> 📫Como puedes contactarme: ...</h1>
-
+<h4> 📫Como puedes contactarme: ...</h4>
+<br/>
    <p align="center">
       <a href="https://vimeo.com/manage/videos/640781424">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=" " height="30" width="30">
@@ -35,7 +35,8 @@ Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios 
       &nbsp
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
- 
+ <br/>
+ <br/>
  <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Ailin09}/count.svg" alt="Ailin09 :: Visitor's Count" /></p>
