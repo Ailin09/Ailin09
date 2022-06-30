@@ -27,6 +27,7 @@ Quiero contarte un poquito sobre mí, soy una persona emprendedora y responsable
 - Docker
 - DBeaver
  :fire:
+ 
 <a><img src="https://user-images.githubusercontent.com/86435558/138572682-bb4b6aad-bbab-4667-bd54-ecc4cfbb5b3a.png"></a>
  
 
