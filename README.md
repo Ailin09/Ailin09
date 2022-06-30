@@ -5,7 +5,8 @@
 
 <img src='https://gifmaniacos.es/wp-content/uploads/2017/03/gif-dinosaurio-terrible-gifmaniacos.es-6.gif' >
 <h1> Sobre mi:</h1>
-Soy una persona emprendedora y responsable, desde el 2020 comencé mis estudios de programación en mis tiempos libres mientras trabajaba como Pastelera Profesional. La Pastelería no fue mi primer vocación, si no que a terminar mis estudios secundarios ingresé como personal militar de Fuerza Aérea, siendo Mecánica Aeronáutica.  Con el paso del tiempo entendí que no hay tiempo perdido si lo que se hace se hace con pasión. Hoy puedo decir que he podido combinar  todas esas habilidades adquiridas y aprendidas y estoy preparada para conseguir mi primer trabajo IT.
+¡Hola, Qué gusto saludarte!
+Quiero contarte un poquito sobre mí, soy una persona emprendedora y responsable, he trabajado con equipos en diferentes ámbitos laborales lejos de la tecnología y siento que podría llegar a conectar con el grupo rápidamente, Me considero proactiva al momento de resolver un problema o buscar una solución, soy una persona alegre y motivacional, porque siento que eso se transmite y se potencia en grupo y por sobretodo estoy predispuesta a tomar nuevos desafíos y aprender sobre lo que no conozco para explotar todas mis habilidades al máximo. 
 
  <h3 align="left">
  Tecnologías:
