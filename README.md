@@ -5,30 +5,16 @@
 
 <img src='https://gifmaniacos.es/wp-content/uploads/2017/03/gif-dinosaurio-terrible-gifmaniacos.es-6.gif' >
 <h1> Sobre mi:</h1>
-¡Hola, Qué gusto saludarte!
-Quiero contarte un poquito sobre mí, soy una persona emprendedora y responsable, he trabajado con equipos en diferentes ámbitos laborales lejos de la tecnología y siento que podría llegar a conectar con el grupo rápidamente, Me considero proactiva al momento de resolver un problema o buscar una solución, soy una persona alegre y motivacional, porque siento que eso se transmite y se potencia en grupo y por sobretodo estoy predispuesta a tomar nuevos desafíos y aprender sobre lo que no conozco para explotar todas mis habilidades al máximo. 
+💡 Apasionada por la tecnología y la creación de soluciones impactantes 💡
 
- <h3 align="left">
- Tecnologías:
-</h3>
-<p align="center">
- :fire:
-- Javascript.
-- Html.
-- Css.
-- Sql.
-- Node.js
-- Bootstrap.
-- React
-- Redux
-- Sequalize
-- Git
-- Material-ui
-- Docker
-- DBeaver
- :fire:
- 
-<a><img src="https://user-images.githubusercontent.com/86435558/138572682-bb4b6aad-bbab-4667-bd54-ecc4cfbb5b3a.png"></a>
+Soy una persona que cree firmemente en el poder de la colaboración y el aprendizaje continuo. Como facilitadora ágil y desarrolladora front-end, no solo me enfoco en escribir código, sino en construir experiencias que hagan la vida de los usuarios más simple y atractiva.
+
+Me considero comprometida y responsable, siempre en busca de soluciones creativas a los desafíos que enfrento. La mejora continua es mi brújula: me encanta encontrar nuevas formas de optimizar procesos, guiar equipos hacia el éxito, y sobre todo, seguir aprendiendo y creciendo.
+
+Lo que más me motiva es ver cómo una idea toma forma, desde los primeros esbozos hasta convertirse en una realidad funcional. Crear es mi motor, y disfruto cada paso del proceso, desde liderar equipos hasta el desarrollo técnico más detallado.
+
+En resumen, me apasiona lo que hago, y mi enfoque está siempre en aportar valor, ya sea a través de la tecnología o del trabajo en equipo. Porque al final del día, creo que la clave del éxito es creer en lo que uno hace.
+
  
 
  <br/>
