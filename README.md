@@ -4,10 +4,10 @@
  
 
 <img src='https://gifmaniacos.es/wp-content/uploads/2017/03/gif-dinosaurio-terrible-gifmaniacos.es-6.gif' >
-<h1> Sobre mi:</h1>
-💡 Apasionada por la tecnología y la creación de soluciones impactantes 💡
+<h1> 💡 Apasionada por la tecnología y la creación de soluciones impactantes 💡</h1>
 
-Soy una persona que cree firmemente en el poder de la colaboración y el aprendizaje continuo. Como facilitadora ágil y desarrolladora front-end, no solo me enfoco en escribir código, sino en construir experiencias que hagan la vida de los usuarios más simple y atractiva.
+
+Soy una persona que cree firmemente en el poder de la colaboración y el aprendizaje continuo. Como desarrolladora front-end, no solo me enfoco en escribir código, sino en construir experiencias que hagan la vida de los usuarios más simple y atractiva.
 
 Me considero comprometida y responsable, siempre en busca de soluciones creativas a los desafíos que enfrento. La mejora continua es mi brújula: me encanta encontrar nuevas formas de optimizar procesos, guiar equipos hacia el éxito, y sobre todo, seguir aprendiendo y creciendo.
 
