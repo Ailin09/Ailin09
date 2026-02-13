@@ -42,6 +42,12 @@ GitLab · Jira · Trello · Figma · Scrum
 - Implementación de design systems
 - Migraciones y performance
 - Workshops internos sobre Angular Signals
+---
+
+## 🧠 Writing
+
+- 📰 **Debugging Life & Tech Reflex**  
+  https://www.linkedin.com/newsletters/debugging-life-tech-reflex-7269106281129422850
 
 ---
 
