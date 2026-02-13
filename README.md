@@ -1,23 +1,80 @@
  
+# 👋 Hola, soy Ailín Rutchle
 
-<img src='https://gifmaniacos.es/wp-content/uploads/2017/03/gif-dinosaurio-terrible-gifmaniacos.es-6.gif' >
-<h1> 💡 Apasionada por la tecnología y la creación de soluciones impactantes 💡</h1>
+Frontend Tech Lead especializada en Angular y arquitectura frontend.
+Construyo aplicaciones web escalables orientadas a negocio y experiencias de usuario claras y mantenibles.
 
+Actualmente trabajo liderando desarrollo frontend en proyectos enterprise del sector seguros, definiendo arquitectura, buenas prácticas y acompañando equipos técnicos.
 
-Soy una persona que cree firmemente en el poder de la colaboración y el aprendizaje continuo. Como desarrolladora front-end, no solo me enfoco en escribir código, sino en construir experiencias que hagan la vida de los usuarios más simple y atractiva.
+---
 
-Me considero comprometida y responsable, siempre en busca de soluciones creativas a los desafíos que enfrento. La mejora continua es mi brújula: me encanta encontrar nuevas formas de optimizar procesos, guiar equipos hacia el éxito, y sobre todo, seguir aprendiendo y creciendo.
+## 🚀 Sobre mí
 
-Lo que más me motiva es ver cómo una idea toma forma, desde los primeros esbozos hasta convertirse en una realidad funcional. Crear es mi motor, y disfruto cada paso del proceso, desde liderar equipos hasta el desarrollo técnico más detallado.
+- Frontend Tech Lead con experiencia en Angular (16–18)
+- Especializada en arquitectura frontend y aplicaciones escalables
+- Experiencia liderando múltiples células de desarrollo
+- Enfoque en performance, mantenibilidad y DX
+- Fuerte orientación a negocio y trabajo colaborativo
 
-En resumen, me apasiona lo que hago, y mi enfoque está siempre en aportar valor, ya sea a través de la tecnología o del trabajo en equipo. Porque al final del día, creo que la clave del éxito es creer en lo que uno hace.
+Me interesa especialmente la evolución del ecosistema Angular, Signals, design systems y performance en aplicaciones enterprise.
 
- 
+---
 
- <br/>
- <br/>
- <h4 align="center">Visitor's count :eyes:</h4>
+## 🛠 Tech Stack
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Ailin09}/count.svg" alt="Ailin09 :: Visitor's Count" /></p>
+**Frontend**
+Angular · TypeScript · JavaScript · HTML · SCSS
 
-⭐️ De 👩‍[Ailin09](https://github.com/Ailin09) 👨‍💻💻
+**UI**
+Angular Material · PrimeNG · Bootstrap · Tailwind · DaisyUI
+
+**Arquitectura y estado**
+NgRx · Signals · Arquitectura basada en componentes
+
+**Backend & servicios**
+Node.js · Firebase · APIs REST
+
+**Herramientas**
+GitLab · Jira · Trello · Figma · Scrum
+
+---
+
+## 💼 Actualmente trabajando en
+
+- Arquitectura frontend en Angular 18
+- Liderazgo técnico de equipos frontend
+- Implementación de design systems
+- Migraciones y optimización de performance
+- Workshops internos sobre Angular Signals
+
+---
+
+## 🌐 Portfolio
+
+Portfolio en construcción:
+
+👉 https://ailinrutchle.dev
+
+(Próximamente con proyectos, arquitectura y casos reales.)
+
+---
+
+## 📊 GitHub Stats
+
+![Ailin GitHub stats](https://github-readme-stats.vercel.app/api?username=Ailin09&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailin09&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Links
+
+LinkedIn:
+https://www.linkedin.com/in/ailin-rutchle
+
+Portfolio:
+https://ailinrutchle.dev
+
+---
+
+⭐ Siempre aprendiendo, construyendo y compartiendo conocimiento.
