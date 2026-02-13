@@ -53,16 +53,16 @@ Portfolio en construcción:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=header"/>
+![Profile views](https://komarev.com/ghpvc/?username=Ailin09&color=0e75b6&style=flat)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ailin09&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Followers](https://img.shields.io/github/followers/Ailin09?style=social)
+![Stars](https://img.shields.io/github/stars/Ailin09?style=social)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailin09&layout=compact&theme=tokyonight&hide_border=true"/>
+![Repo size](https://img.shields.io/github/repo-size/Ailin09/surticket)
+![Last commit](https://img.shields.io/github/last-commit/Ailin09/surticket)
 
-</div>
 
 
 ---
