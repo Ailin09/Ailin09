@@ -1,22 +1,18 @@
- 
-# 👋 Hola, soy Ailín Rutchle
+<h1 align="center">Hola 👋, soy Ailín Rutchle</h1>
+<h3 align="center">Frontend Tech Lead • Angular Developer • Arquitectura Frontend</h3>
 
-Frontend Tech Lead especializada en Angular y arquitectura frontend.
-Construyo aplicaciones web escalables orientadas a negocio y experiencias de usuario claras y mantenibles.
-
-Actualmente trabajo liderando desarrollo frontend en proyectos enterprise del sector seguros, definiendo arquitectura, buenas prácticas y acompañando equipos técnicos.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Angular+Developer;Frontend+Tech+Lead;Arquitectura+Frontend;Signals+%7C+NgRx+%7C+Design+Systems" />
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- Frontend Tech Lead con experiencia en Angular (16–18)
-- Especializada en arquitectura frontend y aplicaciones escalables
-- Experiencia liderando múltiples células de desarrollo
-- Enfoque en performance, mantenibilidad y DX
-- Fuerte orientación a negocio y trabajo colaborativo
+Frontend Tech Lead especializada en Angular y arquitectura frontend.
+Trabajo construyendo aplicaciones web escalables orientadas a negocio.
 
-Me interesa especialmente la evolución del ecosistema Angular, Signals, design systems y performance en aplicaciones enterprise.
+Actualmente lidero desarrollo frontend en proyectos enterprise del sector seguros, definiendo arquitectura, buenas prácticas y acompañando equipos técnicos.
 
 ---
 
@@ -28,23 +24,23 @@ Angular · TypeScript · JavaScript · HTML · SCSS
 **UI**
 Angular Material · PrimeNG · Bootstrap · Tailwind · DaisyUI
 
-**Arquitectura y estado**
+**Arquitectura**
 NgRx · Signals · Arquitectura basada en componentes
 
-**Backend & servicios**
-Node.js · Firebase · APIs REST
+**Servicios**
+Firebase · Node.js · APIs REST
 
 **Herramientas**
 GitLab · Jira · Trello · Figma · Scrum
 
 ---
 
-## 💼 Actualmente trabajando en
+## 💼 Actualmente
 
 - Arquitectura frontend en Angular 18
 - Liderazgo técnico de equipos frontend
 - Implementación de design systems
-- Migraciones y optimización de performance
+- Migraciones y performance
 - Workshops internos sobre Angular Signals
 
 ---
@@ -55,24 +51,26 @@ Portfolio en construcción:
 
 👉 https://ailinrutchle.dev
 
-(Próximamente con proyectos, arquitectura y casos reales.)
-
 ---
 
 ## 📊 GitHub Stats
 
-![Ailin GitHub stats](https://github-readme-stats.vercel.app/api?username=Ailin09&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ailin09&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailin09&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailin09&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔗 Links
 
-LinkedIn:
-https://www.linkedin.com/in/ailin-rutchle
+LinkedIn  
+https://www.linkedin.com/in/ailin-rutchle-911569212/
 
-Portfolio:
+Portfolio  
 https://ailinrutchle.dev
 
 ---
