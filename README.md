@@ -58,14 +58,6 @@ Portfolio en construcción:
 ![Profile views](https://komarev.com/ghpvc/?username=Ailin09&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/Ailin09?style=social)
 
----
-
-## 🚀 Featured Project
-
-### Surticket
-Event management and ticketing platform built with Angular.
-
-🔗 https://gitlab.com/TU-USUARIO/surticket
 
 
 ---
