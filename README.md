@@ -56,13 +56,14 @@ Portfolio en construcción:
 ## 📊 GitHub Stats
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=header"/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ailin09&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailin09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
->
+
 
 ---
 
