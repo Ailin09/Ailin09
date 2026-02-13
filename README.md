@@ -71,7 +71,7 @@ Portfolio en construcción:
 ## 🔗 Links
 
 LinkedIn  
-https://www.linkedin.com/in/ailin-rutchle-911569212/
+https://www.linkedin.com/in/ailin-rutchle/
 
 Portfolio  
 https://ailinrutchle.dev
